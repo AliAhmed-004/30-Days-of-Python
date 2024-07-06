@@ -11,3 +11,5 @@ Quite a long exercise. Only issue I'm having is that most of the questions are a
 
 ## Day 3
 WAYYYY too long!! The last part was a bit difficult since there was a need to recognize the pattern of the table, but I eventually got it.
+
+## Day 4
