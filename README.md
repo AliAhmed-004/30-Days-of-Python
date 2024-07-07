@@ -16,3 +16,4 @@ WAYYYY too long!! The last part was a bit difficult since there was a need to re
 Excellent day. Learned very useful String operations.
 
 ## Day 5
+Very good exercises. Never knew we could do this much stuff with lists. Great tutorial!!
