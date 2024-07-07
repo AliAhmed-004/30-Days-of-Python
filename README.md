@@ -14,3 +14,5 @@ WAYYYY too long!! The last part was a bit difficult since there was a need to re
 
 ## Day 4
 Excellent day. Learned very useful String operations.
+
+## Day 5
