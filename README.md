@@ -17,3 +17,6 @@ Excellent day. Learned very useful String operations.
 
 ## Day 5
 Very good exercises. Never knew we could do this much stuff with lists. Great tutorial!!
+
+## Day 6
+TUPLES!! Thought they were one of my worst nightmares, but its not that bad. Only thing confusing for me is the brackets used for lists, tuples and dictionaries. I always mix them up.
