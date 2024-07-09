@@ -20,3 +20,6 @@ Very good exercises. Never knew we could do this much stuff with lists. Great tu
 
 ## Day 6
 TUPLES!! Thought they were one of my worst nightmares, but its not that bad. Only thing confusing for me is the brackets used for lists, tuples and dictionaries. I always mix them up.
+
+## Day 7
+Fun and educational, this Python challenge on sets helps you understand the importance of unique elements and set operations. Great for learning practical data structure usage!
