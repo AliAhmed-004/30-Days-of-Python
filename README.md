@@ -23,3 +23,6 @@ TUPLES!! Thought they were one of my worst nightmares, but its not that bad. Onl
 
 ## Day 7
 Fun and educational, this Python challenge on sets helps you understand the importance of unique elements and set operations. Great for learning practical data structure usage!
+
+## Day 8
+Dictionaries might be a little confusing when there are multiple datatypes, like if the value is a list or another dictionary. Very useful tutorial.
