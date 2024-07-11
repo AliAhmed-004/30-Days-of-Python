@@ -28,3 +28,4 @@ Fun and educational, this Python challenge on sets helps you understand the impo
 Dictionaries might be a little confusing when there are multiple datatypes, like if the value is a list or another dictionary. Very useful tutorial.
 
 ## Day 9
+This was challenging, especially part 3 of level 3
