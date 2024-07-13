@@ -1,12 +1,12 @@
 # Day 11 of 30 Days of Python
-
-# Part 1: add_two_numbers()
+# ---------------------
+# | Exercises Level 1 |
+# ---------------------
 import cmath
 import math
-import statistics
 from typing import Counter
 
-
+# Part 1: add_two_numbers()
 def add_two_numbers(num1: float, num2: float):
     return num1 + num2
 
