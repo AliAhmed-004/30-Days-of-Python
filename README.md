@@ -32,3 +32,8 @@ This was challenging, especially part 3 of level 3.
 
 ## Day 10
 Loops are useful, especially for analyzing data. Last part was tough.
+
+## Day 11
+Functions are confusing when it comes to indentation, 
+ <br> otherwise they are very helpful in reducing the length of code. <br>
+Skipped part 5 as they are the same as before.
