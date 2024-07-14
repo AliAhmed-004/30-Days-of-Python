@@ -35,3 +35,5 @@ Loops are useful, especially for analyzing data. Last part was tough.
 
 ## Day 11
 Functions are confusing when it comes to indentation otherwise they are very helpful in reducing the length of code. Skipped part 5 as they are the same as before.
+
+## Day 12
