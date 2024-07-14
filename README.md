@@ -37,3 +37,4 @@ Loops are useful, especially for analyzing data. Last part was tough.
 Functions are confusing when it comes to indentation otherwise they are very helpful in reducing the length of code. Skipped part 5 as they are the same as before.
 
 ## Day 12
+This day had nothing to do with modules when it comes to the tasks, but the methods in a file can be used in another file by importing that file. Excellent day.
