@@ -38,3 +38,6 @@ Functions are confusing when it comes to indentation otherwise they are very hel
 
 ## Day 12
 This day had nothing to do with modules when it comes to the tasks, but the methods in a file can be used in another file by importing that file. Excellent day.
+
+## Day 13
+List Comprehensions and Lambda Functions ..... my new programming archnemeses!!!
