@@ -41,3 +41,8 @@ This day had nothing to do with modules when it comes to the tasks, but the meth
 
 ## Day 13
 List Comprehensions and Lambda Functions ..... my new programming archnemeses!!!
+
+## Day 14
+Missed a day due to internship, but that's ok
+
+PS. Writing these reviews is getting a little boring, so from Day 15 onward, I won't be adding these reviews. Might also remove the previous reviews as well.
